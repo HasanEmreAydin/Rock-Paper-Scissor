@@ -16,12 +16,4 @@ This project detects hand gestures representing "Rock", "Paper", or "Scissors" u
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/RPS-Hand-Gesture-Detector.git
-cd RPS-Hand-Gesture-Detector
 
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-
-# Install dependencies
-pip install -r requirements.txt
